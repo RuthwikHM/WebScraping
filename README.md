@@ -1,1 +1,1 @@
-# WebScraping
+Run pip install -r requirements.txt in cmd before running the code.The data is found in Data folder.
